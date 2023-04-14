@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Culture Block</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidXV1bGEiLCJhIjoiY2pvaXkzajZkMGVheTNxbXYxYzZmeDRvcSJ9.BYpH6GNQv5uzqdZlbY35Lg</string>
+    <string name="logo">CultureBlock</string>
+    <string name="btn_map">See on map</string>
+
+    <string-array name="categories">
+        <item>Events</item>
+        <item>Venues</item>
+        <item>Organizations</item>
+        <item>Buildings</item>
+        <item>Street Art</item>
+    </string-array>
+
+    <array name="category_icons">
+        <item>@drawable/calendar</item>
+        <item>@drawable/venues</item>
+        <item>@drawable/organizations</item>
+        <item>@drawable/building</item>
+        <item>@drawable/street_art</item>
+    </array>
+</resources>

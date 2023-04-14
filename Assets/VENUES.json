@@ -1,0 +1,713 @@
+{
+	"name" : "VENUES",
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90738173030728, 49.2045664899746 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Holy Trinity Cathedral",
+				"Address" : "514 Carnarvon Street",
+				"Descriptn" : "Founded in 1859, the Anglican Parish of Holy Trinity Cathedral has continuously served the needs of the community of New Westminster.  Since 1863 the Church has served as the Chapel for the Royal Westminster Regiment.  Both the parish hall and the Church have hosted choral, dance, and theatrical works.  The hall is home to a wide range of community groups from AA to youth groups.  It is frequently used for funeral, wedding, and other receptions.  For the past 20 years the parish has hosted a weekly breakfast and is a member of the New Westminster Homeless Coalition.  For many decades the Regimental Band and the Cathedral Choir have put on a December Christmas Concert.  The Cathedral houses many important works of art including a painting by Joe Plaskett and the earliest stained glass windows made by Henry Bloomfield and sons.  Furnishings in the Cathedral include pieces of 19th century embroidery, a lectern given by Sir James Douglas, and candles sticks and a credence table donated following the great fire of 1898 by Westminster Abbey.",
+				"id" : "59",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1C4",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Founded in 1859, the Anglican Parish of Holy Trinity Cathedral has continuously served the needs of the community of New Westminster.",
+				"catname" : "Venues",
+				"kml_name" : "Holy Trinity Cathedral",
+				"X" : "-122.90738173030728",
+				"Y" : "49.2045664899746"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90685832722707, 49.203317971381516 ]
+			},
+			"properties" : {
+				"email" : "bookings@thecolumbia.ca",
+				"phone" : "604-522-4500",
+				"Name" : "The Columbia",
+				"Address" : "530 Columbia Street",
+				"Descriptn" : "The Columbia is a Historic space in New Westminster that first opened in 1927. It has recently been restored to it's glory and is elegant and breath taking. It houses two venues available to everyone for any event. Our smaller room is a banquet style room. Seating is cabaret style and can seat up to 200. It is equipped with a stage, dance floor, full bar and kitchen.  Our large room is a four tier grand room that seats 300 people cabaret style. It has a large theatrical stage, lighting and sound. There is a large dance floor and 24ft screen with projector. This room can accommodate any event.",
+				"id" : "92",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1B1",
+				"fax" : "",
+				"website" : "http://www.thecolumbia.ca",
+				"social_networks" : "-1",
+				"summary" : "Two beautiful venues available to every person and group. Every type of event can be successful at The Columbia",
+				"catname" : "Venues",
+				"X" : "-122.90685832722707",
+				"Y" : "49.203317971381516"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90685832722707, 49.203317971381516 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Lafflines Comedy Club",
+				"Address" : "530 Columbia Street",
+				"Descriptn" : "Lafflines Comedy Club is Vancouver's longest running comedy club and they deliver every week. Join them for parties, birthdays, fundraisers or a night out, Lafflines has been entertaining for years. They even do private events.",
+				"id" : "93",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1B1",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Lafflines Comedy Club is Vancouver's longest running comedy club",
+				"catname" : "Venues",
+				"kml_name" : "Lafflines Comedy Club",
+				"X" : "-122.90685832722707",
+				"Y" : "49.203317971381516"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9094656521906, 49.20479302462529 ]
+			},
+			"properties" : {
+				"email" : "bullysstudios@gmail.com",
+				"phone" : "604-523-0459",
+				"Name" : "Bully's Studios Inc",
+				"Address" : "67 Sixth Street",
+				"Descriptn" : "We provide a space for musicians of all styles and levels of ability to rehearse. We also have a recording studio which has been putting out lots of records every year. We put on Art shows and All Ages music shows for everyone to enjoy.\\nWe have a mini music store. Something for everyone. Come hang out.",
+				"id" : "113",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 2Z6",
+				"fax" : "",
+				"website" : "http://www.bullysstudios.blogspot.com",
+				"social_networks" : "-1",
+				"summary" : "We provide a space for musicians of all styles and levels of ability to rehearse. We also have a recording studio which has been putting out lots of records every year.",
+				"catname" : "Venues",
+				"X" : "-122.9094656521906",
+				"Y" : "49.20479302462529"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91162631795571, 49.200121639122656 ]
+			},
+			"properties" : {
+				"email" : "events@rivermarket.ca",
+				"phone" : "604-520-3881",
+				"Name" : "River Market",
+				"Address" : "810 Quayside Drive",
+				"Descriptn" : "Feast and fun come together everyday at River Market, where the hungry and curious gather to eat, shop, and play. This 75,000 sq. ft. marketplace on the Fraser River is a venue with an amazing view and food for local art events. There are four types of spaces available to rent. Food Lab: a 100 sq. ft. room with a large window for customer interaction and a double-bowl sink. Uses include cooking demonstrations and product sampling. Conference room: 600 sq. ft. room with tables, chairs, and whiteboard. Uses include art workshops and classes. Market Hall: 2100 sq. ft. hall for craft and art fairs, theatre rehearsals, dance recitals, speaker series, receptions, dinners, and fundraisers. Community Square: 2025sq. ft. open space for art exhibits, craft and art fairs, craft and art workshops, theatre rehearsals, dance recitals, speaker series, receptions, dinners, and fundraisers.",
+				"id" : "120",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 6B9",
+				"fax" : "",
+				"website" : "http://rivermarket.ca/",
+				"social_networks" : "-1",
+				"summary" : "Feast and fun come together everyday at River Market, where the hungry and curious gather to eat, shop, and play. This 75,000sf marketplace on the Fraser River is a venue with an amazing view and food for local art events.",
+				"catname" : "Venues",
+				"X" : "-122.91162631795571",
+				"Y" : "49.200121639122656"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92749398345765, 49.21561133866538 ]
+			},
+			"properties" : {
+				"email" : "info@masseytheatre.com",
+				"phone" : "604-517-5900",
+				"Name" : "Massey Theatre",
+				"Address" : "735 Eighth Avenue",
+				"Descriptn" : "THE MASSEY THEATRE is a professionally operated 1260 seat theatre facility at the geographic centre of the GVRD. Since 1949 Massey Theatre's lights have shone on Broadway touring companies, and stars of dance, music and theatre. When in New Westminster be sure to find out what's on at Massey Theatre. It could be a popular international artist, lively dance performance, symphony concert or stunning musical theatre production by the renowned Royal City Musical Theatre Company. The theatre is available for rental. THE PLASKETT GALLERY is also part of the theatre facility, providing exhibitions of regional visual  arts. The Gallery is open to the public five days a week and during performances. MASSEY TICKET CENTRE is a convenient, friendly and professional ticketing service providing an accessible, local ticket centre committed to serving the community. We offer exceptional customer care and superior performance support.  The Massey Ticket Centre is open for ticket sales and information from 12pm to 6pm, Tuesdays to Saturdays and on the web. For information on Massey Theatre events go to www.masseytheatre.com or call 604-521-5050",
+				"id" : "267",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 2R2",
+				"fax" : "604-517-5901",
+				"website" : "http://www.masseytheatre.com",
+				"social_networks" : "-1",
+				"summary" : "MASSEY THEATRE is a 1260 seat theatre at the centre of Metro Vancouver. Since 1949, our lights have shone on stars of dance, comedy, music and theatre. Discover international concerts, dance performances, symphony concerts or spectacular musical theatre productions on our large, professionally operated stage.",
+				"catname" : "Venues",
+				"X" : "-122.92749398345765",
+				"Y" : "49.21561133866538"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92749398345765, 49.21561133866538 ]
+			},
+			"properties" : {
+				"email" : "info@masseytheatre.com",
+				"phone" : "604-517-5900",
+				"Name" : "Plaskett Gallery",
+				"Address" : "735 Eighth Avenue",
+				"Descriptn" : "THE PLASKETT GALLERY is part of the Massey Theatre facility, providing exhibitions of regional visual arts. Viewing of exhibits is limited to noon to six Tuesday through Saturday and when the Massey Theatre is open for a production.  Artists are invited to submit for consideration for exhibits of two months. The following information about the venue will hopefully assist you in preparing your submission or exhibition. There are five areas suitable for exhibiting artwork: All sizes are approximate. The gallery will comfortably hold between 20 or 25, pieces. We will require an artist statement about the artwork that is to be exhibited. We also require high resolution jpegs of your artwork that can be used on our newsletters, emails and website, media releases, etc. This information will be used to promote the exhibition in the various media. This should be submitted at least six (3) months in advance of your exhibition or as soon as possible. One month previous to the mounting of the exhibit we will require a list of the artwork to be shown. The list is to include artist name, title of artwork, medium, and sale prices. This will enable us to prepare labels for the walls.",
+				"id" : "268",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 2R2",
+				"fax" : "604-517-5901",
+				"website" : "http://www.masseytheatre.com",
+				"social_networks" : "-1",
+				"summary" : "THE PLASKETT GALLERY is part of the Massey Theatre facility, providing exhibitions of regional visual arts. The Gallery is open to the public five days a week and during performances.",
+				"catname" : "Venues",
+				"X" : "-122.92749398345765",
+				"Y" : "49.21561133866538"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91797577722863, 49.207470984106294 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "604-540-9728",
+				"Name" : "ARTLIM Studio",
+				"Address" : "312 Ash Street",
+				"Descriptn" : "",
+				"id" : "297",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 5X7",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "ARTLIM Studio is a gallery in New Westminster.",
+				"catname" : "Venues",
+				"kml_name" : "ARTLIM Studio",
+				"X" : "-122.91797577722863",
+				"Y" : "49.207470984106294"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.911437196703, 49.2022533810701 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "604-553-0289",
+				"Name" : "Brick & Mortar Living",
+				"Address" : "42 Begbie Street",
+				"Descriptn" : "",
+				"id" : "298",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1E6",
+				"fax" : "",
+				"website" : "http://www.brickandmortarliving.com/",
+				"social_networks" : "-1",
+				"summary" : "Brick & Mortar Living is a small shop in downtown New Westminster that sells local designs and unique gifts. It also serves as a visual art venue.",
+				"catname" : "Venues",
+				"X" : "-122.911437196703",
+				"Y" : "49.2022533810701"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91285829891315, 49.20354978520188 ]
+			},
+			"properties" : {
+				"email" : "artsevents@douglascollege.ca",
+				"phone" : "604-527-5723",
+				"Name" : "Amelia Douglas Gallery",
+				"Address" : "",
+				"Descriptn" : "The Amelia Douglas Gallery at Douglas College is free and open to the public during campus operating hours. Artists may contact the Art Exhibit Committee through the College website to arrange to submit works for consideration.",
+				"id" : "313",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "http://www.douglas.bc.ca/visitors/artsevents.html",
+				"social_networks" : "-1",
+				"summary" : "The Amelia Douglas Gallery at Douglas College exhibits six or seven visual arts shows each year, featuring mixed media, ceramics, painting, drawing, pottery, photography, textiles and glass works by BC artists.",
+				"catname" : "Venues",
+				"X" : "-122.91285829891315",
+				"Y" : "49.20354978520188"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91285829891315, 49.20354978520188 ]
+			},
+			"properties" : {
+				"email" : "roombookings_nw@douglascollege.ca",
+				"phone" : "604-527-5613",
+				"Name" : "Laura C. Muir Performing Arts Theatre",
+				"Address" : "700 Royal Avenue",
+				"Descriptn" : "The Muir Theatre is wheelchair accessible. Parking is available at Douglas College. To book the venue, please submit a completed application form to the Douglas College Facilities department: http://www.douglas.bc.ca/__shared/assets/lauraform_aug19_201065926.pdf.",
+				"id" : "315",
+				"category" : 8,
+				"company" : null,
+				"address2" : "Room 4100",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 5B2",
+				"fax" : "",
+				"website" : "http://www.douglas.bc.ca/visitors/artsevents/venues/facilities/performingarts.html",
+				"social_networks" : "-1",
+				"summary" : "The 350-seat Laura C. Muir Performing Arts Theatre is home to Douglas College's Music, Stagecraft and Event Technology, and Theatre departments. It is a fully-equipped fly house used for student productions and College events, and is available for rental. Please call for rental information.",
+				"catname" : "Venues",
+				"X" : "-122.91285829891315",
+				"Y" : "49.20354978520188"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91285829891315, 49.20354978520188 ]
+			},
+			"properties" : {
+				"email" : "seaweedd@douglascollege.ca",
+				"phone" : "604-527-5565",
+				"Name" : "Aboriginal Gathering Place, Douglas College",
+				"Address" : "700 Royal Avenue",
+				"Descriptn" : "Opened in April 2011, the Aboriginal Gathering Place at Douglas College is a venue for traditional ceremonies, and hosts potlucks and meetings.  The main room features traditional art, including a four-metre Coast Salish welcoming figure that faces the Fraser River, by Susan Point, and four directional poles, by George Hemeon. When not holding events, the Gathering Place is a quiet space to study, meditate and meet fellow students. The space is available to everyone at Douglas College and to the larger community to use respectfully. The Aboriginal Student Services Centre at the New Westminster campus of Douglas College is on the traditional territory of the QayQayt First Nation. The Qayqayt First Nation (also Qiqayt, pronounced Kee-Kite), is one of the smallest First Nations in Canada and the only one without a land base.  The Qayqayt reserve used to exist on the banks of the Fraser River, around New Westminster. The Qayqayt People historically spoke the Halq'emÃ©ylem (Upriver dialect), of Halkomelem (also Hulâ€™qâ€™umiâ€™numâ€™/Henqeminem), a Coast Salish language.",
+				"id" : "316",
+				"category" : 8,
+				"company" : null,
+				"address2" : "Room 4650",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 5B2",
+				"fax" : "",
+				"website" : "http://www.douglas.bc.ca/services/aboriginal/services.html",
+				"social_networks" : "-1",
+				"summary" : "The Aboriginal Gathering Place at Douglas College is a venue for traditional ceremonies, and hosts potlucks and meetings.  The main room features traditional art, including a four-metre Coast Salish welcoming figure that faces the Fraser River, by Susan Point, and four directional poles, by George Hemeon.",
+				"catname" : "Venues",
+				"X" : "-122.91285829891315",
+				"Y" : "49.20354978520188"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93387512758184, 49.20969851956304 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "604-524-9151",
+				"Name" : "Carpenters' Hall",
+				"Address" : "1206 Kingston Street",
+				"Descriptn" : "",
+				"id" : "354",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 4J8",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "",
+				"catname" : "Venues",
+				"kml_name" : "Carpenters' Hall",
+				"X" : "-122.93387512758184",
+				"Y" : "49.20969851956304"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89634519228022, 49.21590017288811 ]
+			},
+			"properties" : {
+				"email" : "info@glenbrookpark.com",
+				"phone" : "604-520-0876",
+				"Name" : "Glenbrook Park Amenities Centre",
+				"Address" : "76 Jamieson Court",
+				"Descriptn" : "Glenbrook Park banquet hall provides a venue for wedding receptions, conventions and meetings. The venue features seating for over 200 guests, acres of beautiful gardens and more.",
+				"id" : "355",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 5R6",
+				"fax" : "",
+				"website" : "http://www.glenbrookpark.com",
+				"social_networks" : "-1",
+				"summary" : "Glenbrook Park banquet hall provides a venue for wedding receptions, conventions and meetings. The venue features seating for over 200 guests, acres of beautiful gardens and more.",
+				"catname" : "Venues",
+				"X" : "-122.89634519228022",
+				"Y" : "49.21590017288811"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90664503505513, 49.2042713008876 ]
+			},
+			"properties" : {
+				"email" : "bands@theheritagegrill.com",
+				"phone" : "",
+				"Name" : "Heritage Grill",
+				"Address" : "447 Columbia Street",
+				"Descriptn" : "The Heritage Grill is a restaurant and live music/performance venue in downtown New Westminster.",
+				"id" : "356",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1A9",
+				"fax" : "",
+				"website" : "http://theheritagegrill.com",
+				"social_networks" : "-1",
+				"summary" : "The Heritage Grill is a restaurant and live music/performance venue in downtown New Westminster.",
+				"catname" : "Venues",
+				"X" : "-122.90664503505513",
+				"Y" : "49.2042713008876"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9174909067948, 49.210475065822415 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "604-521-2929",
+				"Name" : "Java Jazz CafÃ© and Bistro",
+				"Address" : "412 Sixth Street",
+				"Descriptn" : "Java Jazz is a live jazz venue and restaurant.",
+				"id" : "357",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 3B1",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Java Jazz is a live jazz venue and restaurant.",
+				"catname" : "Venues",
+				"kml_name" : "Java Jazz CafÃ© and Bistro",
+				"X" : "-122.9174909067948",
+				"Y" : "49.210475065822415"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91162631795571, 49.200121639122656 ]
+			},
+			"properties" : {
+				"email" : "info@laperlaballroom.com",
+				"phone" : "604-931-7161",
+				"Name" : "La Perla Ballroom",
+				"Address" : "810 Quayside Drive",
+				"Descriptn" : "La Perla Ballroom offers an elegant space for conferences, weddings, banquets and more.",
+				"id" : "358",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 6B9",
+				"fax" : "",
+				"website" : "http://www.laperlaballroom.com",
+				"social_networks" : "-1",
+				"summary" : "La Perla Ballroom offers an elegant space for conferences, weddings, banquets and more.",
+				"catname" : "Venues",
+				"X" : "-122.91162631795571",
+				"Y" : "49.200121639122656"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94306433974407, 49.18579163859086 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "604-525-7388",
+				"Name" : "Queensborough Community Centre",
+				"Address" : "920 Ewen Avenue",
+				"Descriptn" : "The Queensborough Community Centre offers a variety of spaces for rent.",
+				"id" : "359",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 5C8",
+				"fax" : "",
+				"website" : "http://www.nwpr.bc.ca",
+				"social_networks" : "-1",
+				"summary" : "The Queensborough Community Centre offers a variety of spaces for rent.",
+				"catname" : "Venues",
+				"X" : "-122.94306433974407",
+				"Y" : "49.18579163859086"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94600836893173, 49.186182100251614 ]
+			},
+			"properties" : {
+				"email" : "rinolinda@shaw.ca",
+				"phone" : "",
+				"Name" : "Roma Hall",
+				"Address" : "940 Ewen Avenue",
+				"Descriptn" : "Roma Hall offers a large hall that can accommodate about 250 guests, and a smaller hall that can accommodate about 65 guests. On-site catering is available for banquets, weddings or special events.",
+				"id" : "360",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 5C8",
+				"fax" : "",
+				"website" : "http://www.romahall.com/index.html",
+				"social_networks" : "-1",
+				"summary" : "Roma Hall offers a large hall that can accommodate about 250 guests.",
+				"catname" : "Venues",
+				"X" : "-122.94600836893173",
+				"Y" : "49.186182100251614"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89381050814704, 49.2252934335062 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Sapperton Pensioners' Hall",
+				"Address" : "318 Keary Street",
+				"Descriptn" : "Sapperton Pensioners' Hall offers two 100-capacity floors for special events.",
+				"id" : "361",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 3L3",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Sapperton Pensioners' Hall offers two 100-capacity floors for special events.",
+				"catname" : "Venues",
+				"kml_name" : "Sapperton Pensioners' Hall",
+				"X" : "-122.89381050814704",
+				"Y" : "49.2252934335062"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91242075985497, 49.20255547362068 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "604-527-1122",
+				"Name" : "The Metro",
+				"Address" : "759 Carnarvon Street",
+				"Descriptn" : "The Metro is a banquet hall available for wedding receptions, product launches, arts and cultural events, workshops, seminars and conferences, pre-screenings, celebrations, theme parties, movie site rentals, photoshoots, and other events.",
+				"id" : "363",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1E6",
+				"fax" : "",
+				"website" : "http://www.themetrohall.com/index.html",
+				"social_networks" : "-1",
+				"summary" : "The Metro is a banquet hall available for wedding receptions, product launches, arts and cultural events.",
+				"catname" : "Venues",
+				"X" : "-122.91242075985497",
+				"Y" : "49.20255547362068"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9079194441062, 49.20274312297333 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Five Stones Church",
+				"Address" : "612 Columbia Street",
+				"Descriptn" : "",
+				"id" : "365",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1A5",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "If you were to ask, “What is Five Stones Church about?” we would answer you with three words.  GOSPEL.  DISCIPLES.  INFLUENCE.  That’s it.  Three stand-alone words yet linked in a strategic sequence.",
+				"catname" : "Venues",
+				"kml_name" : "Five Stones Church",
+				"X" : "-122.9079194441062",
+				"Y" : "49.20274312297333"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91413670202702, 49.206780054113885 ]
+			},
+			"properties" : {
+				"email" : "office@olivet.bc.ca",
+				"phone" : "",
+				"Name" : "Olivet Baptist Church",
+				"Address" : "613 Queens Avenue",
+				"Descriptn" : "There are many regular meeting activities during fall, winter and spring, and a number of special interest groups that meet regularly: Mom's group (a mom's and tot's program) is held each Wednesday morning; Seniors' luncheons with an interesting program are held once a month; the Doris Penner Group, which concentrates upon missions, meets monthly on Saturday; youth programs meet at the church on Friday evening.",
+				"id" : "367",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1L1",
+				"fax" : "",
+				"website" : "http://www.olivet.bc.ca/",
+				"social_networks" : "-1",
+				"summary" : "Olivet Baptist Church is a Christian community that worships in the heart of New Westminster.  We do this by being a community of men and women who commit ourselves to each other before the Lord to become the people of God in the community of New Westminster and wherever God calls us to live and serve.",
+				"catname" : "Venues",
+				"X" : "-122.91413670202702",
+				"Y" : "49.206780054113885"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90310793752342, 49.21419487739017 ]
+			},
+			"properties" : {
+				"email" : "inquiries@vagabondplayers.ca",
+				"phone" : "",
+				"Name" : "The Bernie Legge Theatre",
+				"Address" : "",
+				"Descriptn" : "",
+				"id" : "362",
+				"category" : 8,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "http://vagabondplayers.ca",
+				"social_networks" : "-1",
+				"summary" : "The Bernie Legge Theatre is the home of the Vagabond Players.",
+				"catname" : "Venues",
+				"X" : "-122.90310793752342",
+				"Y" : "49.21419487739017"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9114216276771, 49.20172180976687 ]
+			},
+			"properties" : {
+				"email" : "anvilcentre@newwestcity.ca",
+				"phone" : "",
+				"Name" : "Anvil Centre",
+				"Address" : "777 Columbia Street",
+				"Descriptn" : "Anvil Centre is a modern and vibrant gathering place conveniently located in the historic cultural district of the City of New Westminster—and the geographical centre of Metro Vancouver.\r\n\r\nIf you’re looking for a boutique venue that ignites the imagination, inspires ideas, and stimulates the senses, Anvil Centre is the place where commerce, culture, and community meet.\r\n\r\nAnvil Centre features 18,000 square feet of dedicated conference space, a 364-seat theatre, multipurpose studios, and smaller meeting rooms. With four floors of configurable, multifaceted spaces equipped with the latest in building amenities, Anvil Centre offers endless possibilities for conferences, meetings, events, and community programs.\r\n\r\nAnvil Centre is also host to community-based arts, dance, and heritage programs, as well as public arts performances. The New Westminster New Media Gallery, New Westminster Museum and Archives, and Canadian Lacrosse Hall of Fame, which all call Anvil Centre home, invite visitors to connect, experience, explore, and discover.",
+				"id" : null,
+				"category" : 8,
+				"company" : null,
+				"address2" : null,
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 1B6",
+				"fax" : "",
+				"website" : "http://anvilcentre.com/",
+				"social_networks" : "-1",
+				"summary" : "Anvil Centre is a modern and vibrant gathering place conveniently located in the historic cultural district of the City of New Westminster—and the geographical centre of Metro Vancouver.",
+				"catname" : "Venues",
+				"X" : "-122.9114216276771",
+				"Y" : "49.20172180976687"
+			}
+		}
+	]
+}

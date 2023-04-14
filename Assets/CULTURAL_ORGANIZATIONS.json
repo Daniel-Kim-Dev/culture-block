@@ -1,0 +1,627 @@
+{
+	"name" : "CULTURAL_ORGANIZATIONS",
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89395038440284, 49.23002506993096 ]
+			},
+			"properties" : {
+				"email" : "lmms@shaw.ca",
+				"phone" : "604-525-1516",
+				"Name" : "Melodious Mandolins",
+				"Address" : "",
+				"Descriptn" : "We play music from Italy, Scandinavia, Russia, the British Isles, Canada and various other countries, with our program geared to music which will be familiar and allow the audience to sing along.  If there is a special event highlighting one particular country we can tailor our mix to highlight it.  We provide information about the mandolin and about each song we play so it can be educational, and we can also provide someone to give instruction on the mandolin.",
+				"id" : "81",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "http://www.melodiousmandolins.com",
+				"social_networks" : "-1",
+				"summary" : "We are an ensemble of mandolin players providing performances of music from around the world mainly for the benefit of care facilities and other non-profit organizations.",
+				"catname" : "Organizations",
+				"X" : "-122.89395038440284",
+				"Y" : "49.23002506993096"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9297653857135, 49.20827570953474 ]
+			},
+			"properties" : {
+				"email" : "shiloh6@telus.net",
+				"phone" : "604-522-3443",
+				"Name" : "Shiloh-Sixth Avenue United Church",
+				"Address" : "1111 Sixth Avenue",
+				"Descriptn" : "The music is great (the acoustics in the church are phenomenal!) and the atmosphere is laid-back. We support the Food Bank and the Hospitality Project, Community Kitchens and lots of other groups. We include several artists in different media and are often willing to try something different. We explore faith and spirituality in many different ways. There are programs for children, youth and adults.",
+				"id" : "88",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 2B7",
+				"fax" : "604-526-3433",
+				"website" : "http://www.shiloh-6ave.net",
+				"social_networks" : "-1",
+				"summary" : "We're building a kind, inclusive church where people from all walks of life are finding deep meaning and creating authentic community. You're invited.",
+				"catname" : "Organizations",
+				"X" : "-122.9297653857135",
+				"Y" : "49.20827570953474"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9114258272025, 49.20309443296223 ]
+			},
+			"properties" : {
+				"email" : "info@thestagenewwest.ca",
+				"phone" : "604-518-1291",
+				"Name" : "The Stage New Westminster",
+				"Address" : "#230-50 Lorne Street",
+				"Descriptn" : "The Stage New Westminster is passionately dedication to providing infants, children, youth, and young adults with opportunities to discover their own roles, not only on the stage, but also in life.  Using the performing arts (music, dance, & theatre) we encourage whole person development. The arts are a perfect vehicle for instilling empathy, motivation, social awareness, self awareness, healthy & active living, cooperation, self esteem, compassion and a life-long love of learning in students of all ages.  Not only will these skills help young people develop into dynamic, interesting and educated performers on stage, they will also help them build the life skills necessary to perform as future leaders of our communities in a variety of career fields.",
+				"id" : "89",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 6G3",
+				"fax" : "",
+				"website" : "http://www.thestagenewwest.ca",
+				"social_networks" : "-1",
+				"summary" : "Providing top quality performing arts education and performance opportunities for children and youth.  Classes in music, movement, dance & theatre for infants to 18 years old.  All classes emphasize whole person development and support building skills for the stage and for life.",
+				"catname" : "Organizations",
+				"X" : "-122.9114258272025",
+				"Y" : "49.20309443296223"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90662321062419, 49.20492569116163 ]
+			},
+			"properties" : {
+				"email" : "info@nwphoto.org",
+				"phone" : "",
+				"Name" : "New Westminster Photography Club",
+				"Address" : "",
+				"Descriptn" : "The NWPC is a member of the Canadian Association for Photographic Art (CAPA) and has been continuously active in the city of New Westminster for over 65 years. Members strive to encourage, share and learn from one another in a supportive environment, as well as introduce members of the community to examine and enjoy the inspiration behind a wealth of visual creativity. The constructive evaluation of and appreciation for an eclectic range of photographic images is part of the NWPC's fundamental purpose, and includes participation in external and in-house digital and print competitions, the benefit of regular ongoing sharing and learning sessions held at Centennial Lodge in Queens Park, and a variety of outdoor and indoor venue outings throughout the year. NWPC events are open to all, and interested parties are always welcome to attend and become involved in fostering a rich and valuable creative medium.",
+				"id" : "111",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "http://www.nwphoto.org",
+				"social_networks" : "-1",
+				"summary" : "New Westminster Photography Club strives to foster wider appreciation of the medium of photography among the residents of local communities. The NWPC welcomes people of all skill levels who are interested in any aspect of photography as both an aesthetic art form and powerful visual method of human communication.",
+				"catname" : "Organizations",
+				"X" : "-122.90662321062419",
+				"Y" : "49.20492569116163"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8982545987599, 49.22588662314064 ]
+			},
+			"properties" : {
+				"email" : "info@mymothersstory.org",
+				"phone" : "",
+				"Name" : "Mothership Stories Society",
+				"Address" : "",
+				"Descriptn" : "The extraordinary lives of ordinary women. Online Archive, workshops, performances, books and more celebrating the history and experiences of our mothers - good, bad, or indifferent. An enriching assignment for individuals, the resulting stories bring families together, educate communities, and collectively tell the history of the 20th century through women's eyes.",
+				"id" : "116",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "http://www.mymothersstory.org",
+				"social_networks" : "-1",
+				"summary" : "Producers of My Mother's Story, encouraging people around the world to write and share the story of their mothers' lives. Dedicated to telling women's history one mother at a time.",
+				"catname" : "Organizations",
+				"X" : "-122.8982545987599",
+				"Y" : "49.22588662314064"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91050535148267, 49.224250137192755 ]
+			},
+			"properties" : {
+				"email" : "anvilbattery@senseofhistory.com",
+				"phone" : "",
+				"Name" : "Ancient and Honourable Hyack Anvil Battery",
+				"Address" : "",
+				"Descriptn" : "Communities have always found ways to welcome visitors and to mark special days. In early British Columbia, such occasions were often marked by firing cannons, ringing bells, and three hearty cheers. But another form of recognition was used in BC and other places as well the firing of anvils! The firing of anvils as a form of salute has a long history. In BC they frequently welcomed the arrival of a new stern wheel steamboat. Here and in other places they marked special days and festivities. The process involves placing a little gunpowder between two anvils and igniting it. In the resulting explosion, the top anvil flies upward, a lot of smoke surrounds the park, and the noise is similar to cannon fire. In the late 1800s, a group of men in New Westminster fired an anvil salute to the sovereign when other more recognized means were not available. That annual salute, continued from that time until today, is now carried out by the renowned Ancient and Honourable Hyack Anvil Battery, to mark Victoria Day in honour of the reigning monarch and the memory of Queen Victoria. The salute has also been fired on special occasions such as a visit by Royalty, and the shots are always carried out in a formal, dignified manner as befits a proper salute. Don't miss this proud group in scarlet uniforms reminiscent of an early fire brigade, as they proudly continue an important part of the local cultural heritage and history.",
+				"id" : "184",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The Ancient and Honourable Hyack Anvil Battery traces its roots to the 1880s and the community's desire to salute and honour the reigning monarch. Watch for regal and vice regal salutes during the year with the highlight being the traditional 21 gun salute on Victoria Day.",
+				"catname" : "Organizations",
+				"kml_name" : "Ancient and Honourable Hyack Anvil Battery",
+				"X" : "-122.91050535148267",
+				"Y" : "49.224250137192755"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89583992091866, 49.21477755701763 ]
+			},
+			"properties" : {
+				"email" : "nwhistsoc@senseofhistory.com",
+				"phone" : "604-526-6113",
+				"Name" : "New Westminster Historical Society",
+				"Address" : "",
+				"Descriptn" : "The New Westminster Historical Society, since it started in 1976, has held a wide variety of presentations and talks, mostly connected to some aspect of the history of the City of New Westminster. The majority of the presentations are illustrated, and many have items on display that augment or explain the topic.\\nMembership in the group is open to anyone interested in history, but all meetings are free and open to the public. The group meets once a month on the 3rd Wednesday, starting at 7:30 pm in the New Westminster Public Library auditorium in uptown New Westminster, and there is no need to pre-register. A monthly newsletter includes programming information as well as stories, photos, and other related materials and information. Membership, which includes the newsletter plus four additional special issues each year, is $10 and the newsletters can be received by email or regular post. For anyone, young or old, who enjoys hearing about local history in a comfortable, welcoming setting, with topics connected to a myriad of community items, the New Westminster Historical Society is definitely a group to look into.",
+				"id" : "185",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "The New Westminster Historical Society began in the spring of 1976 and has met monthly primarily at the New Westminster Public Library auditorium ever since. The meetings at the Library do not have a business component just a presentation that usually centers on the history and heritage of New Westminster.",
+				"catname" : "Organizations",
+				"kml_name" : "New Westminster Historical Society",
+				"X" : "-122.89583992091866",
+				"Y" : "49.21477755701763"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91038920809117, 49.20722247460557 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "778-928-7236",
+				"Name" : "Royal City Farmers Market (Summer)",
+				"Address" : "511 Royal Avenue",
+				"Descriptn" : "The Royal City Farmers Market offers farm-fresh produce, plants, quality crafts from local artists and artisans, gourmet prepared foods, community information, live entertainment, and more. In the summer, it is located at 511 Royal Avenue. In the winter, it is at the New Westminster Quay.",
+				"id" : "308",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1H9",
+				"fax" : "",
+				"website" : "http://rcfm.ca/",
+				"social_networks" : "-1",
+				"summary" : "The Royal City Farmers Market offers farm-fresh produce, plants, quality crafts from local artists and artisans.",
+				"catname" : "Organizations",
+				"X" : "-122.91038920809117",
+				"Y" : "49.20722247460557"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91139564890224, 49.200060290730946 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Royal City Farmers Market (Winter)",
+				"Address" : "810 Quayside Drive",
+				"Descriptn" : "The Royal City Farmers Market offers farm-fresh produce, plants, quality crafts from local artists and artisans, gourmet prepared foods, community information, live entertainment, and more. In the summer, it is located at 511 Royal Avenue. In the winter, it is at the New Westminster Quay.",
+				"id" : "309",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 6B9",
+				"fax" : "",
+				"website" : "http://rcfm.ca/",
+				"social_networks" : "-1",
+				"summary" : "The Royal City Farmers Market offers farm-fresh produce, plants, quality crafts from local artists and artisans,",
+				"catname" : "Organizations",
+				"X" : "-122.91139564890224",
+				"Y" : "49.200060290730946"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92283212833972, 49.21493348252144 ]
+			},
+			"properties" : {
+				"email" : "secretary@rclas.com",
+				"phone" : "",
+				"Name" : "Royal City Literary Arts Society",
+				"Address" : "Box #5 720 Sixth Street",
+				"Descriptn" : "Royal City Literary Arts Society (RCLAS) Our Slogan:  Wordplay At Work RCLAS Mission Statement: Our organization is Inclusive of ALL writers and all people connected with writing - including novelists, poets, songwriters, technical writers, memoir writers, essayists, article writers, editors, proofreaders, publishers, graphic artists, layout and design artists, etc. If you are involved in writing, you should be involved with us. The purpose of The Royal City Literary Arts Society is to foster and garner written and spoken word in ALL forms; to provide readings, events, features, performances, open-mics, workshops and critiquing opportunities for writers, songwriters and spoken word artists; to stimulate, encourage and facilitate the development of both emerging and established writers in ALL genres. RCLAS Member Benefits: Member Profile Page Workshops  Contests member discount  Mentoring Programs Events Discounts References/Resources for Writers\\Newsletters\\Event Listings\\International Publisher Listing\\Help with book launches setup, procuring venue etc\\Writer Retreats member discount 25%\\Member Shmooz Nights\\RCLAS. Board: President Candice James, Vice President Manolis Aligizakis, Treasurer Ken Ader, Secretary Deborah Kelly, Director at Large Janet Kvammen, Director at Large Renee Saklikar. Founding Members:Candice James, Janet Kvammen, Ken Ader, Gavin Hainsworth, Renee Saklikar. Board Advisors: Sylvia Taylor. RCLAS Contact Info: Email secretary@rclas.com Website http://rclas.com/ Membership Dues - $28 annually.",
+				"id" : "320",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 3C5",
+				"fax" : "",
+				"website" : "http://rclas.com/",
+				"social_networks" : "-1",
+				"summary" : "Royal City Literary Arts Society  Our Slogan: Wordplay At Work. Our organization is Inclusive of ALL writers and all people connected with writing - including novelists, poets, songwriters, technical writers, memoir writers, essayists, article writers, editors, proofreaders, publishers, graphic artists, layout and design artists, etc.",
+				"catname" : "Organizations",
+				"X" : "-122.92283212833972",
+				"Y" : "49.21493348252144"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89103884302968, 49.232113757644285 ]
+			},
+			"properties" : {
+				"email" : "lizawajong.omnita@gmail.com",
+				"phone" : "",
+				"Name" : "OMNITA",
+				"Address" : "",
+				"Descriptn" : "Our goal is to allow the community a chance to explore Indonesian heritage with cultural offerings.  We work with local organizations to organize Batik textile exhibitions.  We will provide opportunities to immerse in the culture through workshops, textile tours, and Indonesian conversational courses.  We also work with small artisans in Indonesia to produce OMNITA's own collection of Batik clothing and accessories.  We believe that our work reflects the richness of Canada's mosaic of culture, and we invite you to join us in strengthening our diverse community.",
+				"id" : "331",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "OMNITA is an Indonesian cultural arts organization.  We offer eco-friendly batik garments, educational opportunities, and special events that celebrate Indonesian arts.",
+				"catname" : "Organizations",
+				"kml_name" : "OMNITA",
+				"X" : "-122.89103884302968",
+				"Y" : "49.232113757644285"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9200904373401, 49.1983590374728 ]
+			},
+			"properties" : {
+				"email" : "info@newwestartists.com",
+				"phone" : "604-525-7654",
+				"Name" : "New West Artists Society",
+				"Address" : "",
+				"Descriptn" : "New West Artists welcomes visual artists of all levels, from hobby artists to full-time professional veterans. It doesn't matter where you live or what visual medium you prefer. We all have much to give and can benefit from pooling our talents, ideas and creative energy. You will be promoted via your online presence on this website, as well as your participation in as many exhibitions, events and workshops as you are willing and able to be involved in!",
+				"id" : "333",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "http://newwestartists.com",
+				"social_networks" : "-1",
+				"summary" : "New West Artists is an inclusive, non-profit society aiming to celebrate, encourage and stimulate visual artists through connection, education and promotion.",
+				"catname" : "Organizations",
+				"X" : "-122.9200904373401",
+				"Y" : "49.1983590374728"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9100921750837, 49.2004428342359 ]
+			},
+			"properties" : {
+				"email" : "info@fraserriverdiscover.org",
+				"phone" : "",
+				"Name" : "Fraser River Discovery Centre",
+				"Address" : "788 Quayside Drive",
+				"Descriptn" : "The Fraser River Discovery Centre is an interpretative centre designed to educate visitors on the natural and cultural history of the Fraser River through exhibits and hands-on activities.",
+				"id" : "346",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 6Z6",
+				"fax" : "",
+				"website" : "http://www.fraserriverdiscovery.org/",
+				"social_networks" : "-1",
+				"summary" : "The Fraser River Discovery Centre is an interpretative centre designed to educate visitors on the natural and cultural history of the Fraser River through exhibits and hands-on activities.",
+				"catname" : "Organizations",
+				"X" : "-122.9100921750837",
+				"Y" : "49.2004428342359"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95816597595562, 49.20097993719949 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Heritage Life Drawing Society",
+				"Address" : "927 London Place",
+				"Descriptn" : "The Heritage Life Drawing Society is a group of artists that meets once a week to practice life drawing skills using professional models.",
+				"id" : "347",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 4Z5",
+				"fax" : "",
+				"website" : "http://www.heritagelifedrawing.com",
+				"social_networks" : "-1",
+				"summary" : "The Heritage Life Drawing Society is a group of artists that meets once a week to practice life drawing skills using professional models.",
+				"catname" : "Organizations",
+				"X" : "-122.95816597595562",
+				"Y" : "49.20097993719949"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94332569511415, 49.205900783567365 ]
+			},
+			"properties" : {
+				"email" : "",
+				"phone" : "",
+				"Name" : "Kabok Music School",
+				"Address" : "1719 8th Avenue",
+				"Descriptn" : "Kabok Music School is a local music school. It offers lessons in stringed instruments, piano, guitar, voice, woodwind, brass and music theory.",
+				"id" : "348",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 2S8",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Kabok Music School is a local music school. It offers lessons in stringed instruments, piano, guitar, voice, woodwind, brass and music theory.",
+				"catname" : "Organizations",
+				"kml_name" : "Kabok Music School",
+				"X" : "-122.94332569511415",
+				"Y" : "49.205900783567365"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91812078013697, 49.220727884622235 ]
+			},
+			"properties" : {
+				"email" : "info@newwesthortsociety.org",
+				"phone" : "",
+				"Name" : "New Westminster Horticultural Society",
+				"Address" : "119 Ovens Avenue",
+				"Descriptn" : "The New Westminster Horticultural Society is a group for gardeners to share ideas, socialize and volunteer.",
+				"id" : "350",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1Z1",
+				"fax" : "",
+				"website" : "http://www.newwesthortsociety.org",
+				"social_networks" : "-1",
+				"summary" : "The New Westminster Horticultural Society is a group for gardeners to share ideas, socialize and volunteer.",
+				"catname" : "Organizations",
+				"X" : "-122.91812078013697",
+				"Y" : "49.220727884622235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92725012685085, 49.214800777130115 ]
+			},
+			"properties" : {
+				"email" : "info@nwso.ca",
+				"phone" : "",
+				"Name" : "New Westminster Symphony Orchestra",
+				"Address" : "735 Eighth Avenue",
+				"Descriptn" : "The New Westminster Symphony Orchestra serves music enthusiasts in the Lower Mainland of British Columbia and beyond. It offers a popular program of four indoor concerts each year, plus occasional appearances at the Hyack Festival of New Westminster in May and other musical presentations in the Lower Mainland.",
+				"id" : "351",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 2R2",
+				"fax" : "",
+				"website" : "http://www.nwso.ca",
+				"social_networks" : "-1",
+				"summary" : "The New Westminster Symphony Orchestra serves music enthusiasts in the Lower Mainland of British Columbia and beyond.",
+				"catname" : "Organizations",
+				"X" : "-122.92725012685085",
+				"Y" : "49.214800777130115"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90698948193804, 49.2040669357289 ]
+			},
+			"properties" : {
+				"email" : "rcyb@telus.net",
+				"phone" : "",
+				"Name" : "Royal City Youth Ballet",
+				"Address" : "511 Columbia Street",
+				"Descriptn" : "The Royal City Youth Ballet presents professional performances by up-and-coming dancers with elaborate costumes, sets and lighting.",
+				"id" : "353",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1B2",
+				"fax" : "",
+				"website" : "http://www.royalcityyouthballet.org",
+				"social_networks" : "-1",
+				"summary" : "The Royal City Youth Ballet presents professional performances by up-and-coming dancers with elaborate costumes, sets and lighting.",
+				"catname" : "Organizations",
+				"X" : "-122.90698948193804",
+				"Y" : "49.2040669357289"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90873441072263, 49.213063619183224 ]
+			},
+			"properties" : {
+				"email" : "royalcitywriters@gmail.com",
+				"phone" : "",
+				"Name" : "Royal City Writers",
+				"Address" : "",
+				"Descriptn" : "Royal City Writers is a not-for-profit, volunteer-based organization that uses the unique power of storytelling to forge connections and build understanding in our community. RCW believes that everyone has a story worth sharing, and we are committed to bringing these stories to light.\\r\\n\\r\\nWe respect diversity and encourage the unique differences between us, because we believe they don't need to divide us but can in fact make the fabric of our community stronger. It's our intention to use whatever influence we may have to mitigate the marginalization of certain voices due to race, gender, socio-economics, physical ability, or age.\\r\\n\\r\\nWe believe that storytelling has a unique capacity to build bridges and foster connections in our community, and we are committed to sharing stories that do just that.\\r\\n\\r\\nWatch social media sites for our events, or email royalcitywriters@gmail.com and ask to be added to our mailing list.",
+				"id" : "375",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "",
+				"prov" : "",
+				"pcode" : "",
+				"fax" : "",
+				"website" : "http://royalcitywriters.ca/",
+				"social_networks" : "-1",
+				"summary" : "Royal City Writers uses workshop-based events to connect diverse members of our community through storytelling. Past participants have included writers, students, mothers and daughters, fathers and sons, adult children of aging parents, homeless individuals, seniors, homemakers, business people, and students. The shortest distance between two strangers is a story.",
+				"catname" : "Organizations",
+				"X" : "-122.90873441072263",
+				"Y" : "49.213063619183224"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91190341751636, 49.207133686483076 ]
+			},
+			"properties" : {
+				"email" : "president@royal-westies-assn.ca",
+				"phone" : "",
+				"Name" : "The Royal Westminster Regiment Museum",
+				"Address" : "530 Queens Avenue",
+				"Descriptn" : "We are housed in the oldest wooden Armoury in Canada.  Opened in 1895.  The museum is in the old \"Gun room\" where there is a collection of uniforms, medals & pictures.  We are open on Tuesdays and Thursdays from 11:00am to 3:00pm and by appointment.",
+				"id" : "376",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 1K3",
+				"fax" : "",
+				"website" : "http://www.royal-westies-assn.ca",
+				"social_networks" : "-1",
+				"summary" : "The Museum  has a collection of items relating to the History and Heritage of The Royal Westminster Regiment & its antecedents.",
+				"catname" : "Organizations",
+				"X" : "-122.91190341751636",
+				"Y" : "49.207133686483076"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.88994084751909, 49.22535584034545 ]
+			},
+			"properties" : {
+				"email" : "royalcityswing@gmail.com",
+				"phone" : "604-773-3637",
+				"Name" : "Royal City Swing",
+				"Address" : "218 Keary Street",
+				"Descriptn" : "Royal City Swing is the Lower Mainland's Friday Night Swing venue. Friday Nights 7:30-12am Cover: 8$ Beginner lesson: 7:45-8:30pm. Organizers: Kyle MacDonald\\Afonso Silveira\\Natsuko Murao\\Nicola Armanini. Description: Sapperton's Pensioner's Hall has a beautiful large sprung hardwood dance floor. General Information: Royal City Swing is the Lower Mainland's newest Swing venue. Beginner drop in lesson runs roughly from 7:45pm-8:30pm. Beginnner, Intermediate and advanced workshops are offered often covering all the swing dances: Lindy Hop, Charleston, Balboa, Collegiate Shag, East coast and West coast swing. Royal City Swing participates in many New Westminster festivals like Sapperton Days Festival, 12st Music Festival, Royal City's Show and Shine! Come out and hear some great music, live bands, free lessons, live performances and lots of social dancing! Keep in touch with us online and on facebook!",
+				"id" : "282",
+				"category" : 5,
+				"company" : null,
+				"address2" : "",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3L 0A6",
+				"fax" : "",
+				"website" : "",
+				"social_networks" : "-1",
+				"summary" : "Royal City Swing is a non-profit dance organization providing New Westminster, Vancouver and the entire lower mainland's swing dance community with a regular Friday night swing dance and regular top-notch but affordable dance instruction, every Friday night at the Sapperton Pensioners' hall on Keary street.",
+				"catname" : "Organizations",
+				"kml_name" : "Royal City Swing",
+				"X" : "-122.88994084751909",
+				"Y" : "49.22535584034545"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92725012685085, 49.214800777130115 ]
+			},
+			"properties" : {
+				"email" : "rcmtoffice@telus.net",
+				"phone" : "604-522-4306",
+				"Name" : "Royal City Musical Theatre Company",
+				"Address" : "c/o Massey Theatre",
+				"Descriptn" : "For the audience, musical theatre is a special experience combining all of the performing arts; singing, dancing, acting, and musicianship with the visual arts to make one spectacular event. A musical employs brilliant swirls of colour, light and sound to tell timeless stories that are at once familiar and yet unique every night. Royal City Musical Theatre, hatched 1989 around a kitchen table in New Westminster, grew out of a love of music, theatre and dance - musical theatre.  It has been an enduring success, becoming one of the most popular musical theatre producers in Canada. They provide top flight entertainment thrilling large audiences while creating opportunities for performers, musicians and technicians to present their talents and develop their skills. They produce only large scale musicals with casts of as many as 60 on stage. Very few organizations outside of Broadway or London's West End are able to mount such enormous productions.  With a full sized orchestra, professional leads and large vocal and dance choruses, the scale and the jubilant spirit of RCMT productions are a feast for both the senses and for the heart. Each April, since 1990, RCMT produces a theatrically lavish and spirited production of a renowned musical theatre play.  Support RCMT by attending our shows and workshops, becoming a member, auditioning for a role or making a tax deductible charitable donation.  You won't regret getting to know RCMT better!",
+				"id" : "271",
+				"category" : 5,
+				"company" : null,
+				"address2" : "735 Eighth Avenue",
+				"city" : "New Westminster",
+				"prov" : "BC",
+				"pcode" : "V3M 2R2",
+				"fax" : "",
+				"website" : "http://www.royalcitymusicaltheatre.com",
+				"social_networks" : "-1",
+				"summary" : "Royal City Musical Theatre is the musical theatre company prized for entertainment excellence and praised for entertainment value.",
+				"catname" : "Organizations",
+				"X" : "-122.92725012685085",
+				"Y" : "49.214800777130115"
+			}
+		}
+	]
+}
